@@ -27,4 +27,6 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
     |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
 
-
+Integrantes:
+Santiago Arciniegas Castro - 202014994
+María Camila Luna Velasco - 201920993
